@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gb-byte&label=Profile%20views&color=0e75b6&style=flat" alt="gb-byte" /> </p>
 
-- 🌱 I’m currently learning **Tailwind.css, Next.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **benjaminglory199@gmail.com**
 
